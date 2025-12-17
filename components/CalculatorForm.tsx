@@ -1,6 +1,6 @@
 import React from 'react';
 import { SellerType, ProductCategory, FeeConfig } from '../types';
-import { ADMIN_FEE_RATES, DEFAULT_TRANSACTION_FEE, DEFAULT_FREE_SHIPPING_XTRA, DEFAULT_CASHBACK_XTRA } from '../constants';
+import { ADMIN_FEE_RATES } from '../constants';
 import { Settings2, ChevronDown, ChevronUp, Info } from 'lucide-react';
 
 interface Props {
